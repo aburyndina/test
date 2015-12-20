@@ -1,3 +1,5 @@
+
+--comment
 declare @blocker int
 	, @spid int
 	, @handle binary(20)
